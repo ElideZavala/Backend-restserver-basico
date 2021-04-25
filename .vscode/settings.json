@@ -26,5 +26,6 @@
           "activityBar.background": "#233208",
           "titleBar.activeBackground": "#30460B",
           "titleBar.activeForeground": "#F6FCEC"
-     }
+     },
+     "peacock.color": "#040601"
 }
